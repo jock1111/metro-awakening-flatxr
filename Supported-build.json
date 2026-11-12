@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "packageVersion": "2026.11.11.1",
+  "buildId": "c5d4ab74a0e82983",
+  "fingerprints": [
+    {
+      "path": "Impact/Binaries/Win64/Impact-Win64-Shipping.exe",
+      "size": 126044672,
+      "sha256": "c5d4ab74a0e82983319d36de4a57aa2305b22d71684845bb9cbc6d463aa4040c"
+    },
+    {
+      "path": "Impact/Content/Paks/global.utoc",
+      "size": 647,
+      "sha256": "23aba7dfca05211c4d0558907f801653c73af3bfabf692f100610f4ab4addec0"
+    },
+    {
+      "path": "Impact/Content/Paks/pakchunk0-Windows.utoc",
+      "size": 7753090,
+      "sha256": "ea03c9258adab32792a694b56b7ad44c840f39900cfdb60252c1cacd54e781aa"
+    }
+  ]
+}
